@@ -1,0 +1,8 @@
+{
+  "name": "normalize-apartment-name",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "cli.js",
+  "author": "",
+  "license": "ISC"
+}
